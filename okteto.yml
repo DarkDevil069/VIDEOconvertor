@@ -1,5 +1,5 @@
-name: Ultroid
-workdir: /root/TeamUltroid
+name: EncoderPro
+workdir: /root/Encoder
 #environment:
 #  - name=$USER
 #  - environment=development # will be changed later
